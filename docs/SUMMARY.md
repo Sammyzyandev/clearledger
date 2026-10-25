@@ -36,6 +36,7 @@
 - [Getting Started](for-lps/getting-started.md)
 - [Deposit USDC](for-lps/deposit-usdc.md)
 - [Understanding Yield](for-lps/understanding-yield.md)
+- [LP Share Pricing and Yield Accounting](for-lps/share-pricing-and-yield-accounting.md)
 
 ## Developer Guide
 
